@@ -36,7 +36,7 @@ Stressful limited-time events
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A mobile game where the player is given an assortment of letters that constitute a set of scrambled words and aims to reconstruct the original words.
 
 ## User Requirements
 
