@@ -12,27 +12,27 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 #### Goals/Needs
 
-Bonus points for words that are not part of the answer
+* Bonus points for words that are not part of the answer
 
-Controls are smooth and not fiddly or unintuitive
+* Controls are smooth and not fiddly or unintuitive
 
-Monetized features ADD to the game
+* Monetized features ADD to the game
 
-Hints
+* Hints
 
-Customizable cosmetics
+* Customizable cosmetics
 
 #### Problems/Frustrations
 
-Unpleasant monetization strategies that disrupt the experience (freemium-type things where not paying makes your gameplay experience markedly worse)
+* Unpleasant monetization strategies that disrupt the experience (freemium-type things where not paying makes your gameplay experience markedly worse)
 
-Pausing background media to play its own sound
+* Pausing background media to play its own sound
 
-Bad music/sound effects
+* Bad music/sound effects
 
-Ugly/inaccessible (ex. red/green) graphics
+* Ugly/inaccessible (ex. red/green) graphics
 
-Stressful limited-time events
+* Stressful limited-time events
 
 ## Product Vision Statement
 
