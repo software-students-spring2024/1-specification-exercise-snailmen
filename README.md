@@ -8,7 +8,31 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Harlan Wise:
+
+#### Goals/Needs
+
+Bonus points for words that are not part of the answer
+
+Controls are smooth and not fiddly or unintuitive
+
+Monetized features ADD to the game
+
+Hints
+
+Customizable cosmetics
+
+#### Problems/Frustrations
+
+Unpleasant monetization strategies that disrupt the experience (freemium-type things where not paying makes your gameplay experience markedly worse)
+
+Pausing background media to play its own sound
+
+Bad music/sound effects
+
+Ugly/inaccessible (ex. red/green) graphics
+
+Stressful limited-time events
 
 ## Product Vision Statement
 
