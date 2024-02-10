@@ -45,6 +45,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+In-game shop:
 ![Shop activity diagram](/SWE%20Project%201%20shop%20activity%20diagram.png)
 
 ## Clickable Prototype
