@@ -42,6 +42,18 @@ A mobile game where the player is given an assortment of letters that constitute
 
 See instructions. Delete this line and place a list of your User Stories here.
 
+* As a player, I want to play a game, so I can have fun.
+* As a player, I want to begin a game, so I can play a round of the game.
+* As a player, I want to customize the game with cosmetics, so it looks the way I prefer.
+* As a player, I want to purchase in-game currency, so I can purchase items in the shop.
+* As a player, I want to compare scores with other players, so I can compete with them.
+* As a player, I want to make an account, so I can save my scores.
+* As a player, I want to make an account, so I can save my purchases.
+* As a player, I want to make an account, so I can be on the leaderboard.
+* As a player, I want to watch an ad, so I can get a hint.
+* As a player, I want to watch an ad, so I can get in-game currency.
+
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
