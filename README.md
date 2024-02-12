@@ -4,7 +4,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Ash https://github.com/kiorinori
+
+Jakob https://github.com/jsh9965
+
+Josckar https://github.com/josckar
+
+Stella https://github.com/qq3173732005
 
 ## Stakeholders
 
@@ -40,10 +46,7 @@ A mobile game where the player is given an assortment of letters that constitute
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
-* As a player, I want to play a game, so I can have fun.
-* As a player, I want to begin a game, so I can play a round of the game.
+* As a player, I want to start a game, so I can play a round of the game.
 * As a player, I want to customize the game with cosmetics, so it looks the way I prefer.
 * As a player, I want to purchase items in the shop, so I can use cosmetics.
 * As a player, I want to see the cosmetic items I own, so I can compare and equip them.
@@ -51,8 +54,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 * As a player, I want to make an account, so I can save my purchases.
 * As a player, I want to change some settings, so I can play according to my preferences.
 * As a player, I want to access the menu from all parts of the app, so I can navigate easily.
-* As a player, I want to search for a specific friend, so I can find someone easily.
-
+* As a player, I want to add a friend, so I can compare scores with them.
+* As a player, I want to search for users, so that I can add a specific friend easily.
 
 ## Activity Diagrams
 
@@ -63,4 +66,6 @@ In-game shop:
 
 ## Clickable Prototype
 
-[Link to prototype](https://www.figma.com/file/LxtPsFMJ4kb2szEPMWExmB/Word-App-Wireframes?type=design&node-id=0%3A1&mode=design&t=0UvNijlJYps3c8tq-1)
+[Link to wireframes](https://www.figma.com/file/LxtPsFMJ4kb2szEPMWExmB/Word-App-Wireframes?type=design&node-id=0%3A1&mode=design&t=0UvNijlJYps3c8tq-1)
+
+[Link to prototype presentation](https://www.figma.com/proto/LxtPsFMJ4kb2szEPMWExmB/Word-App-Wireframes?type=design&node-id=1-2&t=qOzQwIkBO5ktHqDn-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
