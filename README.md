@@ -5,8 +5,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Ash https://github.com/kiorinori
+
 Jakob https://github.com/jsh9965
+
 Josckar https://github.com/josckar
+
 Stella https://github.com/qq3173732005
 
 ## Stakeholders
