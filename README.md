@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Ash https://github.com/kiorinori
+Jakob https://github.com/jsh9965
+Josckar https://github.com/josckar
+Stella https://github.com/qq3173732005
 
 ## Stakeholders
 
@@ -55,8 +58,6 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 In-game shop:
 ![Shop activity diagram](/SWE%20Project%201%20shop%20activity%20diagram.png)
