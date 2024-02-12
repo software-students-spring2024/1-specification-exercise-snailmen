@@ -46,10 +46,7 @@ A mobile game where the player is given an assortment of letters that constitute
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
-* As a player, I want to play a game, so I can have fun.
-* As a player, I want to begin a game, so I can play a round of the game.
+* As a player, I want to start a game, so I can play a round of the game.
 * As a player, I want to customize the game with cosmetics, so it looks the way I prefer.
 * As a player, I want to purchase items in the shop, so I can use cosmetics.
 * As a player, I want to see the cosmetic items I own, so I can compare and equip them.
@@ -57,8 +54,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 * As a player, I want to make an account, so I can save my purchases.
 * As a player, I want to change some settings, so I can play according to my preferences.
 * As a player, I want to access the menu from all parts of the app, so I can navigate easily.
-* As a player, I want to search for a specific friend, so I can find someone easily.
-
+* As a player, I want to add a friend, so I can compare scores with them.
+* As a player, I want to search for users, so that I can add a specific friend easily.
 
 ## Activity Diagrams
 
