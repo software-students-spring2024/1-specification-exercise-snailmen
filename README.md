@@ -56,6 +56,8 @@ A mobile game where the player is given an assortment of letters that constitute
 * As a player, I want to access the menu from all parts of the app, so I can navigate easily.
 * As a player, I want to add a friend, so I can compare scores with them.
 * As a player, I want to search for users, so that I can add a specific friend easily.
+* As a player, I want to watch an ad, so that I can get a hint.
+* As a player, I want to use a hint, so that the game will be easier.
 
 ## Activity Diagrams
 
