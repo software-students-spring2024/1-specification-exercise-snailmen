@@ -59,10 +59,11 @@ A mobile game where the player is given an assortment of letters that constitute
 
 ## Activity Diagrams
 
+Gameplay:
+![Gameplay activity diagram](/SWE%20Project%201%20gameplay%20diagram.png)
+
 In-game shop:
 ![Shop activity diagram](/SWE%20Project%201%20shop%20activity%20diagram.png)
-
-![Gameplay activity diagram](/SWE%20Project%201%20gameplay%20diagram.png)
 
 ## Clickable Prototype
 
